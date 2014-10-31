@@ -3,7 +3,7 @@ Ghosts
 =====================
 
 
-This is a git repository of the source files for the book Ghosts by Ibsen, Henrik Archer, William. This book is in the Public Domain, see the LICENSE file for details.
+This is a git repository of the source files for the book Ghosts by Ibsen, Henrik. Translated by Archer, William. This book is in the Public Domain, see the LICENSE file for details.
 
 The cover is from the Norwegian original, from the National Library of Norway- http://ibsen.nb.no/id/268.0
 
