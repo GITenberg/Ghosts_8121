@@ -14,7 +14,7 @@ Translator: William Archer
 
 Release Date: May, 2005 [EBook #8121]
 Posting Date: August 6, 2009
-[Last updated: January 17, 2011]
+[Last updated: October 2, 2017]
 
 Language: English
 
@@ -117,7 +117,7 @@ begun, go to the utmost extremes."
 Towards the end of January Ibsen wrote from Rome to Olaf Skavlan:
 "These last weeks have brought me a wealth of experiences, lessons, and
 discoveries. I, of course, foresaw that my new play would call forth a
-howl from the camp of the stagnationists; and for; this I care no more
+howl from the camp of the stagnationists; and for this I care no more
 than for the barking of a pack of chained dogs. But the pusillanimity
 which I have observed among the so-called Liberals has given me cause
 for reflection. The very day after my play was published the _Dagblad_
@@ -181,7 +181,7 @@ whether authors or critics, were one and all ardent disciples of Ibsen,
 who regarded _Gespenster_ as his typical masterpiece. In Germany,
 then, the play certainly did, in Ibsen's own words, "move some
 boundary-posts." The Prussian censorship presently withdrew its veto,
-and on, November 27, 1894, the two leading literary theatres of Berlin,
+and on November 27, 1894, the two leading literary theatres of Berlin,
 the Deutsches Theater and the Lessing Theater, gave simultaneous
 performances of the tragedy. Everywhere in Germany and Austria it is
 now freely performed; but it is naturally one of the least popular of
@@ -251,7 +251,7 @@ which actually presents itself in the medical books seems to me of very
 trifling moment. It is typically true, even if it be not true in detail.
 The suddenness of the catastrophe may possibly be exaggerated, its
 premonitions and even its essential nature may be misdescribed. On the
-other hand, I conceive it, probable that the poet had documents to found
+other hand, I conceive it probable that the poet had documents to found
 upon, which may be unknown to his critics. I have never taken any pains
 to satisfy myself upon the point, which seems to me quite immaterial.
 There is not the slightest doubt that the life-history of a Captain
@@ -293,7 +293,7 @@ nearer to the truth than Georg Brandes did in the above-quoted phrase
 from his first notice of the play, describing it as not, perhaps, the
 poet's greatest work, but certainly his noblest deed. In another essay,
 Brandes has pointed to it, with equal justice, as marking Ibsen's final
-breach with his early-one might almost say his hereditary romanticism.
+breach with his early--one might almost say his hereditary romanticism.
 He here becomes, at last, "the most modern of the moderns." "This, I am
 convinced," says the Danish critic, "is his imperishable glory, and will
 give lasting life to his works."
@@ -426,7 +426,7 @@ you.
 ENGSTRAND. Oh, we'll see about that.
 
 REGINA. Yes, you may be sure we'll see about it! Me, that have been
-brought up by a lady like Mrs Alving! Me, that am treated almost as a
+brought up by a lady like Mrs. Alving! Me, that am treated almost as a
 daughter here! Is it me you want to go home with you?--to a house like
 yours? For shame!
 
@@ -626,7 +626,7 @@ have been having lately.
 REGINA. [Follows him.] It's such blessed weather for the country, sir.
 
 MANDERS. No doubt; you are quite right. We townspeople give too little
-thought to that. [He begins to take of his overcoat.]
+thought to that. [He begins to take off his overcoat.]
 
 REGINA. Oh, mayn't I help you?--There! Why, how wet it is? I'll just
 hang it up in the hall. And your umbrella, too--I'll open it and let it
@@ -991,7 +991,7 @@ MANDERS. Then you do not wish the Orphanage to be insured?
 
 MRS. ALVING. No. We will let it alone.
 
-MANDERS. [Leaning hack in his chair.] But if, now, a disaster were to
+MANDERS. [Leaning back in his chair.] But if, now, a disaster were to
 happen? One can never tell--Should you be able to make good the damage?
 
 MRS. ALVING. No; I tell you plainly I should do nothing of the kind.
@@ -1044,8 +1044,8 @@ workman.
 
 MRS. ALVING. Oh, yes; so long as he's sober--
 
-MANDERS. Ah, that melancholy weakness! But, a is often driven to it
-by his injured leg, lie says,' Last time he was in town I was really
+MANDERS. Ah, that melancholy weakness! But, he is often driven to it
+by his injured leg, he says. Last time he was in town I was really
 touched by him. He came and thanked me so warmly for having got him work
 here, so that he might be near Regina.
 
@@ -1213,7 +1213,7 @@ MRS. ALVING. And I am to keep him so long! That is the best of all.
 
 MANDERS. You are going to pass the winter at home, I hear.
 
-OSWALD. My stay is indefinite, sir.-But, ah! it is good to be at home!
+OSWALD. My stay is indefinite, sir. But, ah! it is good to be at home!
 
 MRS. ALVING. [Beaming.] Yes, isn't it, dear?
 
@@ -1330,7 +1330,7 @@ MANDERS. Yes, no doubt--
 MRS. ALVING. I have too.
 
 OSWALD. Well, you may take their word for it. They know what they are
-talking about! [Presses has hands to his head.] Oh! that that great,
+talking about! [Presses his hands to his head.] Oh! that that great,
 free, glorious life out there should be defiled in such a way!
 
 MRS. ALVING. You mustn't get excited, Oswald. It's not good for you.
@@ -1561,7 +1561,7 @@ something softly to her. And then I heard--[With a short laugh]--oh! it
 still sounds in my ears, so hateful and yet so ludicrous--I heard my own
 servant-maid whisper, "Let me go, Mr. Alving! Let me be!"
 
-MANDERS. What unseemly levity on his part'! But it cannot have been more
+MANDERS. What unseemly levity on his part! But it cannot have been more
 than levity, Mrs. Alving; believe me, it cannot.
 
 MRS. ALVING. I soon knew what to believe. Mr. Alving had his way with
@@ -1845,7 +1845,7 @@ MANDERS. What do you mean by that?
 
 MRS. ALVING. [Drumming on the window frame.] I ought never to have
 concealed the facts of Alving's life. But at that time I dared not
-do anything else-I was afraid, partly on my own account. I was such a
+do anything else--I was afraid, partly on my own account. I was such a
 coward.
 
 MANDERS. A coward?
@@ -1903,7 +1903,7 @@ MANDERS. You have established a happy illusion in your son's heart, Mrs.
 Alving; and assuredly you ought not to undervalue it.
 
 MRS. ALVING. H'm; who knows whether it is so happy after all--? But, at
-any rate, I will not have any tampering wide Regina. He shall not go and
+any rate, I will not have any tampering with Regina. He shall not go and
 wreck the poor girl's life.
 
 MANDERS. No; good God--that would be terrible!
@@ -2191,7 +2191,7 @@ downstairs. You have told me of the affair already. Your infirmity is an
 honour to you.
 
 ENGSTRAND. I'm not puffed up about it, your Reverence. But what I wanted
-to say was, that when she cane and confessed all to me, with weeping and
+to say was, that when she came and confessed all to me, with weeping and
 gnashing of teeth, I can tell your Reverence I was sore at heart to hear
 it.
 
@@ -2452,7 +2452,7 @@ so horrible?
 MRS. ALVING. My poor boy! How has this horrible thing come upon you?
 
 OSWALD. [Sitting upright again.] That's just what I cannot possibly
-grasp or understand. I have never led a dissipated life never, in any
+grasp or understand. I have never led a dissipated life--never, in any
 respect. You mustn't believe that of me, mother! I've never done that.
 
 MRS. ALVING. I am sure you haven't, Oswald.
@@ -2622,7 +2622,7 @@ OSWALD. No, thanks. I will do it myself.
 [REGINA goes out again.]
 
 MRS. ALVING. [Sits down by the table.] What was it you meant--that I
-musn't deny you?
+mustn't deny you?
 
 OSWALD. [Busy opening the bottle.] First let us have a glass--or two.
 
@@ -2633,7 +2633,7 @@ MRS. ALVING. [Holding her hand over it.] Thanks; not for me.
 
 OSWALD. Oh! won't you? Then I will!
 
-[He empties the glass, fells, and empties it again; then he sits down by
+[He empties the glass, fills, and empties it again; then he sits down by
 the table.]
 
 MRS. ALVING. [In expectancy.] Well?
@@ -2704,7 +2704,7 @@ MRS. ALVING. [Goes over to the right and pulls the bell.]
 OSWALD. What is it you want?
 
 MRS. ALVING. I want my boy to be happy--that is what I want. He sha'n't
-go on brooding over things [To REGINA, who appears at the door:] More
+go on brooding over things. [To REGINA, who appears at the door:] More
 champagne--a large bottle. [REGINA goes.]
 
 OSWALD. Mother!
@@ -2819,7 +2819,7 @@ MRS. ALVING. Perhaps you are right. Tell me more about it, Oswald.
 
 OSWALD. I only mean that here people are brought up to believe that
 work is a curse and a punishment for sin, and that life is something
-miserable, something; it would be best to have done with, the sooner the
+miserable, something it would be best to have done with, the sooner the
 better.
 
 MRS. ALVING. "A vale of tears," yes; and we certainly do our best to
@@ -2830,7 +2830,7 @@ nobody really believes such doctrines any longer. There, you feel it a
 positive bliss and ecstasy merely to draw the breath of life. Mother,
 have you noticed that everything I have painted has turned upon the joy
 of life?--always, always upon the joy of life?--light and sunshine and
-glorious air-and faces radiant with happiness. That is why I'm afraid of
+glorious air and faces radiant with happiness. That is why I'm afraid of
 remaining at home with you.
 
 MRS. ALVING. Afraid? What are you afraid of here, with me?
@@ -2869,7 +2869,7 @@ go to him and help him--
 
 REGINA. No thank you, sir.
 
-MANDERS. [Noticing her for the first tine.] What--? You here? And with a
+MANDERS. [Noticing her for the first time.] What--? You here? And with a
 glass in your hand!
 
 REGINA. [Hastily putting the glass down.] Pardon!
@@ -3139,7 +3139,7 @@ descend upon this house, and that quickly.
 MRS. ALVING. Good-bye, Pastor Manders. [She goes up towards the
 conservatory, as she sees OSWALD coming in through the garden door.]
 
-ENGSTRAND. [While he and REGINA help MANGERS to get his coat on.]
+ENGSTRAND. [While he and REGINA help MANDERS to get his coat on.]
 Good-bye, my child. And if any trouble should come to you, you know
 where Jacob Engstrand is to be found. [Softly.] Little Harbour Street,
 h'm--! [To MRS. ALVING and OSWALD.] And the refuge for wandering
@@ -3147,7 +3147,7 @@ mariners shall be called "Chamberlain Alving's Home," that it shall! And
 if so be as I'm spared to carry on that house in my own way, I make so
 bold as to promise that it shall be worthy of the Chamberlain's memory.
 
-MANDERS. [In the doorway.] H'm--h'm!--Come along, my dear Enstrand.
+MANDERS. [In the doorway.] H'm--h'm!--Come along, my dear Engstrand.
 Good-bye! Good-bye! [He and ENGSTRAND go out through the hall.]
 
 OSWALD. [Goes towards the table.] What house was he talking about?
@@ -3206,7 +3206,7 @@ MRS. ALVING. Oswald, have you not your mother to come to the rescue?
 OSWALD. You? [Smiles.] No, mother; that rescue you will never bring me.
 [Laughs sadly.] You! ha ha! [Looks earnestly at her.] Though, after all,
 who ought to do it if not you? [Impetuously.] Why can't you say "thou"
-to me, Regina? [Note: "Sige du" = Fr. _tutoyer_] Why do'n't you call me
+to me, Regina? [Note: "Sige du" = Fr. _tutoyer_] Why don't you call me
 "Oswald"?
 
 REGINA. [Softly.] I don't think Mrs. Alving would like it.
@@ -3523,7 +3523,7 @@ death--though I should like to live as long as I can.
 MRS. ALVING. Yes, yes, Oswald, you must!
 
 OSWALD. But this is so unutterably loathsome. To become a little baby
-again! To hive to be fed! To have to--Oh, it's not to be spoken of!
+again! To have to be fed! To have to--Oh, it's not to be spoken of!
 
 MRS. ALVING. The child has his mother to nurse him.
 
@@ -3634,7 +3634,7 @@ OSWALD. Yes.
 
 MRS. ALVING. [Bending over him.] It has been a dreadful fancy of yours,
 Oswald--nothing but a fancy. All this excitement has been too much for
-you. But now you shall have along rest; at home with your mother, my own
+you. But now you shall have a long rest; at home with your mother, my own
 blessëd boy. Everything you point to you shall have, just as when you
 were a little child.--There now. The crisis is over. You see how easily
 it passed! Oh, I was sure it would.--And do you see, Oswald, what a
